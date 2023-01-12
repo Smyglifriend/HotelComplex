@@ -1,0 +1,15 @@
+{
+  "Routes":[
+    {
+      "DownstreamPathTemplate":"/api/{controller}",
+      "DownstreamScheme":"https",
+      "DownstreamHostAndPorts":[
+        {
+          "Host":"localhost",
+          "Port": 7086
+        }
+      ],
+      "UpstreamPathTemplate":"/{controller}"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>HotelComplex.DataAccess</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\DataAccess.Clients.Abstractions\DataAccess.Clients.Abstractions.csproj" />
+      <ProjectReference Include="..\DataAccess.Shared.Abstractions\DataAccess.Shared.Abstractions.csproj" />
+      <ProjectReference Include="..\DataAccess.Shared\DataAccess.Shared.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.10" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.10" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.10">
+        <PrivateAssets>all</PrivateAssets>
+        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      </PackageReference>
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="6.0.10" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.10" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.10">
+        <PrivateAssets>all</PrivateAssets>
+        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      </PackageReference>
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.1" />
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="6.0.0" />
+    </ItemGroup>
+
+</Project>

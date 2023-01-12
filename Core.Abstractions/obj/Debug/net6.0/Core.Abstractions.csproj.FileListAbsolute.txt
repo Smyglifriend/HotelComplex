@@ -1,0 +1,12 @@
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\Core.Abstractions\bin\Debug\net6.0\Core.Abstractions.deps.json
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\Core.Abstractions\bin\Debug\net6.0\Core.Abstractions.dll
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\Core.Abstractions\bin\Debug\net6.0\ref\Core.Abstractions.dll
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\Core.Abstractions\bin\Debug\net6.0\Core.Abstractions.pdb
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\Core.Abstractions\obj\Debug\net6.0\Core.Abstractions.csproj.AssemblyReference.cache
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\Core.Abstractions\obj\Debug\net6.0\Core.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\Core.Abstractions\obj\Debug\net6.0\Core.Abstractions.AssemblyInfoInputs.cache
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\Core.Abstractions\obj\Debug\net6.0\Core.Abstractions.AssemblyInfo.cs
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\Core.Abstractions\obj\Debug\net6.0\Core.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\Core.Abstractions\obj\Debug\net6.0\Core.Abstractions.dll
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\Core.Abstractions\obj\Debug\net6.0\ref\Core.Abstractions.dll
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\Core.Abstractions\obj\Debug\net6.0\Core.Abstractions.pdb

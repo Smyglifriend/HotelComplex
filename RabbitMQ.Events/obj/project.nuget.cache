@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ame1RQE03vRhyJFFdaqzJ63YWBYJEYH3u+Sbpd9sE2jk9tyauSMbdEgQ3M+XSaWV/2+fVzlA8isNh6bLJ6Pfzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\smuglifriend\\OneDrive\\Рабочий стол\\Task\\HotelComplex\\RabbitMQ.Events\\RabbitMQ.Events.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\smuglifriend\\.nuget\\packages\\masstransit.abstractions\\8.0.7\\masstransit.abstractions.8.0.7.nupkg.sha512",
+    "C:\\Users\\smuglifriend\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\smuglifriend\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\smuglifriend\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\smuglifriend\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

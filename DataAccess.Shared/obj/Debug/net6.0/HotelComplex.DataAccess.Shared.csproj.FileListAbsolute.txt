@@ -1,0 +1,17 @@
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\HotelComplex.DataAccess.Shared\bin\Debug\net6.0\HotelComplex.DataAccess.Shared.deps.json
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\HotelComplex.DataAccess.Shared\bin\Debug\net6.0\HotelComplex.DataAccess.Shared.runtimeconfig.json
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\HotelComplex.DataAccess.Shared\bin\Debug\net6.0\HotelComplex.DataAccess.Shared.dll
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\HotelComplex.DataAccess.Shared\bin\Debug\net6.0\ref\HotelComplex.DataAccess.Shared.dll
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\HotelComplex.DataAccess.Shared\bin\Debug\net6.0\HotelComplex.DataAccess.Shared.pdb
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\HotelComplex.DataAccess.Shared\bin\Debug\net6.0\HotelComplex.DataAccess.Shared.Abstractions.dll
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\HotelComplex.DataAccess.Shared\bin\Debug\net6.0\HotelComplex.DataAccess.Shared.Abstractions.pdb
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\HotelComplex.DataAccess.Shared\obj\Debug\net6.0\HotelComplex.DataAccess.Shared.csproj.AssemblyReference.cache
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\HotelComplex.DataAccess.Shared\obj\Debug\net6.0\HotelComplex.DataAccess.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\HotelComplex.DataAccess.Shared\obj\Debug\net6.0\HotelComplex.DataAccess.Shared.AssemblyInfoInputs.cache
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\HotelComplex.DataAccess.Shared\obj\Debug\net6.0\HotelComplex.DataAccess.Shared.AssemblyInfo.cs
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\HotelComplex.DataAccess.Shared\obj\Debug\net6.0\HotelComplex.DataAccess.Shared.csproj.CoreCompileInputs.cache
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\HotelComplex.DataAccess.Shared\obj\Debug\net6.0\HotelComplex.DataAccess.Shared.csproj.CopyComplete
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\HotelComplex.DataAccess.Shared\obj\Debug\net6.0\HotelComplex.DataAccess.Shared.dll
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\HotelComplex.DataAccess.Shared\obj\Debug\net6.0\ref\HotelComplex.DataAccess.Shared.dll
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\HotelComplex.DataAccess.Shared\obj\Debug\net6.0\HotelComplex.DataAccess.Shared.pdb
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\HotelComplex.DataAccess.Shared\obj\Debug\net6.0\HotelComplex.DataAccess.Shared.genruntimeconfig.cache

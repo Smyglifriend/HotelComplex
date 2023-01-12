@@ -1,0 +1,12 @@
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\RabbitMQ\bin\Debug\net6.0\RabbitMQ.deps.json
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\RabbitMQ\bin\Debug\net6.0\RabbitMQ.dll
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\RabbitMQ\bin\Debug\net6.0\ref\RabbitMQ.dll
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\RabbitMQ\bin\Debug\net6.0\RabbitMQ.pdb
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\RabbitMQ\obj\Debug\net6.0\RabbitMQ.csproj.AssemblyReference.cache
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\RabbitMQ\obj\Debug\net6.0\RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\RabbitMQ\obj\Debug\net6.0\RabbitMQ.AssemblyInfoInputs.cache
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\RabbitMQ\obj\Debug\net6.0\RabbitMQ.AssemblyInfo.cs
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\RabbitMQ\obj\Debug\net6.0\RabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\RabbitMQ\obj\Debug\net6.0\RabbitMQ.dll
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\RabbitMQ\obj\Debug\net6.0\ref\RabbitMQ.dll
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\RabbitMQ\obj\Debug\net6.0\RabbitMQ.pdb

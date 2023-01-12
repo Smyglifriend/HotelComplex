@@ -1,0 +1,15 @@
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\DataAccess.Hotel.Abstractions\bin\Debug\net6.0\DataAccess.Hotel.Abstractions.deps.json
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\DataAccess.Hotel.Abstractions\bin\Debug\net6.0\DataAccess.Hotel.Abstractions.dll
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\DataAccess.Hotel.Abstractions\bin\Debug\net6.0\ref\DataAccess.Hotel.Abstractions.dll
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\DataAccess.Hotel.Abstractions\bin\Debug\net6.0\DataAccess.Hotel.Abstractions.pdb
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\DataAccess.Hotel.Abstractions\bin\Debug\net6.0\DataAccess.Shared.Abstractions.dll
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\DataAccess.Hotel.Abstractions\bin\Debug\net6.0\DataAccess.Shared.Abstractions.pdb
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\DataAccess.Hotel.Abstractions\obj\Debug\net6.0\DataAccess.Hotel.Abstractions.csproj.AssemblyReference.cache
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\DataAccess.Hotel.Abstractions\obj\Debug\net6.0\DataAccess.Hotel.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\DataAccess.Hotel.Abstractions\obj\Debug\net6.0\DataAccess.Hotel.Abstractions.AssemblyInfoInputs.cache
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\DataAccess.Hotel.Abstractions\obj\Debug\net6.0\DataAccess.Hotel.Abstractions.AssemblyInfo.cs
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\DataAccess.Hotel.Abstractions\obj\Debug\net6.0\DataAccess.Hotel.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\DataAccess.Hotel.Abstractions\obj\Debug\net6.0\DataAccess.Hotel.Abstractions.csproj.CopyComplete
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\DataAccess.Hotel.Abstractions\obj\Debug\net6.0\DataAccess.Hotel.Abstractions.dll
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\DataAccess.Hotel.Abstractions\obj\Debug\net6.0\ref\DataAccess.Hotel.Abstractions.dll
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\DataAccess.Hotel.Abstractions\obj\Debug\net6.0\DataAccess.Hotel.Abstractions.pdb

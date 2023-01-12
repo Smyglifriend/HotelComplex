@@ -1,0 +1,15 @@
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\HotelComplex.DataAccess.Clients.Abstractions\bin\Debug\net6.0\HotelComplex.DataAccess.Clients.Abstractions.deps.json
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\HotelComplex.DataAccess.Clients.Abstractions\bin\Debug\net6.0\HotelComplex.DataAccess.Clients.Abstractions.dll
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\HotelComplex.DataAccess.Clients.Abstractions\bin\Debug\net6.0\ref\HotelComplex.DataAccess.Clients.Abstractions.dll
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\HotelComplex.DataAccess.Clients.Abstractions\bin\Debug\net6.0\HotelComplex.DataAccess.Clients.Abstractions.pdb
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\HotelComplex.DataAccess.Clients.Abstractions\bin\Debug\net6.0\HotelComplex.DataAccess.Shared.Abstractions.dll
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\HotelComplex.DataAccess.Clients.Abstractions\bin\Debug\net6.0\HotelComplex.DataAccess.Shared.Abstractions.pdb
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\HotelComplex.DataAccess.Clients.Abstractions\obj\Debug\net6.0\HotelComplex.DataAccess.Clients.Abstractions.csproj.AssemblyReference.cache
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\HotelComplex.DataAccess.Clients.Abstractions\obj\Debug\net6.0\HotelComplex.DataAccess.Clients.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\HotelComplex.DataAccess.Clients.Abstractions\obj\Debug\net6.0\HotelComplex.DataAccess.Clients.Abstractions.AssemblyInfoInputs.cache
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\HotelComplex.DataAccess.Clients.Abstractions\obj\Debug\net6.0\HotelComplex.DataAccess.Clients.Abstractions.AssemblyInfo.cs
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\HotelComplex.DataAccess.Clients.Abstractions\obj\Debug\net6.0\HotelComplex.DataAccess.Clients.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\HotelComplex.DataAccess.Clients.Abstractions\obj\Debug\net6.0\HotelComplex.DataAccess.Clients.Abstractions.csproj.CopyComplete
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\HotelComplex.DataAccess.Clients.Abstractions\obj\Debug\net6.0\HotelComplex.DataAccess.Clients.Abstractions.dll
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\HotelComplex.DataAccess.Clients.Abstractions\obj\Debug\net6.0\ref\HotelComplex.DataAccess.Clients.Abstractions.dll
+C:\Users\smuglifriend\OneDrive\Рабочий стол\Task\HotelComplex\HotelComplex.DataAccess.Clients.Abstractions\obj\Debug\net6.0\HotelComplex.DataAccess.Clients.Abstractions.pdb
